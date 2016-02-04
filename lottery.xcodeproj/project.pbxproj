@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		623606A81C633ACC001C192E /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 623606A61C633ACC001C192E /* LICENSE */; };
+		623606A91C633ACC001C192E /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 623606A71C633ACC001C192E /* README.md */; };
 		62A429481C5F3C3E00E3FF2C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 62A429471C5F3C3E00E3FF2C /* main.m */; };
 		62A4294B1C5F3C3E00E3FF2C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 62A4294A1C5F3C3E00E3FF2C /* AppDelegate.m */; };
 		62A4294E1C5F3C3E00E3FF2C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 62A4294D1C5F3C3E00E3FF2C /* ViewController.m */; };
@@ -25,6 +27,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		623606A61C633ACC001C192E /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		623606A71C633ACC001C192E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		62A429431C5F3C3E00E3FF2C /* lottery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lottery.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		62A429471C5F3C3E00E3FF2C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		62A429491C5F3C3E00E3FF2C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -69,6 +73,8 @@
 		62A4293A1C5F3C3E00E3FF2C = {
 			isa = PBXGroup;
 			children = (
+				623606A61C633ACC001C192E /* LICENSE */,
+				623606A71C633ACC001C192E /* README.md */,
 				62A429451C5F3C3E00E3FF2C /* lottery */,
 				62A429441C5F3C3E00E3FF2C /* Products */,
 			);
@@ -200,6 +206,7 @@
 			files = (
 				62A429561C5F3C3E00E3FF2C /* LaunchScreen.storyboard in Resources */,
 				62A429531C5F3C3E00E3FF2C /* Assets.xcassets in Resources */,
+				623606A81C633ACC001C192E /* LICENSE in Resources */,
 				62A429511C5F3C3E00E3FF2C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -215,6 +222,7 @@
 				62A4294E1C5F3C3E00E3FF2C /* ViewController.m in Sources */,
 				62A42D311C60E99000E3FF2C /* SlideViewController.m in Sources */,
 				62A42D2E1C60DAF000E3FF2C /* DetailViewController.m in Sources */,
+				623606A91C633ACC001C192E /* README.md in Sources */,
 				62A42D341C61B7B900E3FF2C /* BaseNavigationViewController.m in Sources */,
 				62A42D221C5F98DF00E3FF2C /* BaseImageView.m in Sources */,
 				62A4294B1C5F3C3E00E3FF2C /* AppDelegate.m in Sources */,
